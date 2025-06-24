@@ -2,7 +2,7 @@
 
 A sleek, interactive, and accessible **unit conversion web app** built using **React**, **TypeScript**, **Tailwind CSS**, and **Vite**. ScaleX allows users to convert between various units of measurement across different categories like length, weight, time, and temperature.
 
-![Banner](https://github.com/Prahaar123/ScaleX-unit-converter/issues/1#issue-3172989642) <!-- optional banner -->
+![Banner](https://github.com/user-attachments/assets/8c04a414-af90-44c4-861a-1cf3768218e2) <!-- optional banner -->
 
 ---
 
@@ -14,7 +14,7 @@ A sleek, interactive, and accessible **unit conversion web app** built using **R
 
 ## 📸 Preview
 
-![App Screenshot](https://github.com/Prahaar123/ScaleX-unit-converter/issues/2#issue-3172992507)
+![App Screenshot](https://github.com/user-attachments/assets/f1f5ad83-536e-4d40-9f72-741ed3ffaa69)
 
 ---
 

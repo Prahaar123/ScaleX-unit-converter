@@ -8,7 +8,7 @@ A sleek, interactive, and accessible **unit conversion web app** built using **R
 
 ## 🚀 Live Demo
 
-🔗 [Visit the App on Vercel](https://your-vercel-app-url.vercel.app) 
+🔗 [Visit the App on Vercel](https://scale-x-unit-converter.vercel.app/) 
 
 ---
 
